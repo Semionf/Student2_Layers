@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Students2\Students2.Entities\bin\Debug\Students2.Entities.dll
+C:\Users\User\source\repos\Students2\Students2.Entities\bin\Debug\Students2.Entities.pdb
+C:\Users\User\source\repos\Students2\Students2.Entities\bin\Debug\Students2.DAL.dll
+C:\Users\User\source\repos\Students2\Students2.Entities\bin\Debug\Students2.Model.dll
+C:\Users\User\source\repos\Students2\Students2.Entities\bin\Debug\Students2.DAL.pdb
+C:\Users\User\source\repos\Students2\Students2.Entities\bin\Debug\Students2.Model.pdb
+C:\Users\User\source\repos\Students2\Students2.Entities\obj\Debug\Students2.Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Students2\Students2.Entities\obj\Debug\Students2.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Students2\Students2.Entities\obj\Debug\Students2.Entities.csproj.CopyComplete
+C:\Users\User\source\repos\Students2\Students2.Entities\obj\Debug\Students2.Entities.dll
+C:\Users\User\source\repos\Students2\Students2.Entities\obj\Debug\Students2.Entities.pdb
